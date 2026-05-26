@@ -22,6 +22,8 @@ I did a three-dimensional customer diagnostic combining:
 - Lifecycle classification (active, churned, one-off)
 
  And identified where the company’s revenue actually comes from, where it is being lost, and where the biggest opportunities for growth exist within the existing customer base.
+
+ ![customer matrix](assets/customer-matrix.png)
  
 _______
 
